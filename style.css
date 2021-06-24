@@ -1,0 +1,88 @@
+body{
+    background: linear-gradient(to right, #42e695, #3bb2bb);
+}
+p.demo_store {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #ffd9c8;
+    text-align: center;
+    font-size: 12px;
+    padding: 8px 0;
+    z-index: 999999;
+    border-bottom: 2px solid #f0baa2;
+}
+.name-site{
+    font-family: Gabriola;
+    font-size: 100px;
+    text-align: center;
+}
+.photo1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    margin-top: -100px;
+}
+.bar-name{
+    text-align: center;
+}
+.bar1{
+    margin-right: auto;
+    margin-left: auto;
+    font-family: "B Baran";
+    background: rgba(0, 255, 255, 0.70);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 20.0px );
+    -webkit-backdrop-filter: blur( 20.0px );
+    border-radius: 40px;
+    width: 315px;
+}
+.bar2{
+    font-family: "B Elham";
+    font-size: 25px;
+}
+.bar3 {
+    font-family: "B Compset";
+    font-size: 45px;
+}
+.bar4{
+    font-family: "B Elham";
+    font-size: 25px;
+}
+.bar5{
+    font-family: "B Compset";
+    font-size: 23px;
+}
+.bar6{
+    font-family: "B Elham";
+    font-size: 23px;
+}
+.bar7{
+    font-family: "B Compset";
+    font-size: 27px;
+}
+.bar8{
+   font-family: "B Elham";
+   font-size: 23px;
+}
+.bar9{
+    font-family: "B Compset";
+    font-size: 30px;
+}
+.bar-photo{
+    font-family: "B Elham";
+    font-size: 22px;
+}
+.photo-bar{
+
+}
+.bar10{
+    font-family: "B Elham";
+    font-size: 24px;
+}
+.bar11{
+    font-family: "B Compset";
+    font-size: 25px;
+}
